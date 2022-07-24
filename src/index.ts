@@ -1,0 +1,5 @@
+// import './2-enum'
+// import './3-interface-object'
+// import './4-interface-func'
+// import './5-class'
+// import './7-generics'
