@@ -1,6 +1,4 @@
-// import './2-enum'
-// import './3-interface-object'
-// import './4-interface-func'
-// import './5-class'
-// import './7-generics'
-// import './9-advanced'
+let str: string = 'hello ts'
+
+console.log([1, [2, 3], [[1, 2, 3, 4]]].flat())
+Object.values({ a: 1, b: 2, c: 3 }) // [1, 2, 3]
